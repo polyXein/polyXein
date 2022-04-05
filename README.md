@@ -1,4 +1,4 @@
-### Hi there, I'm Nicolas 👋{
+### Hi there, I'm Nicolas 👋
 ![fondolinkedin](https://user-images.githubusercontent.com/79024305/161687329-627bae93-200b-4de3-ba34-d6ebea4631aa.png)
 
 ## about me in code:
