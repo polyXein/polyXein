@@ -1,6 +1,7 @@
 ### Hi there, I'm Nicolas 👋{
 ![fondolinkedin](https://user-images.githubusercontent.com/79024305/161687329-627bae93-200b-4de3-ba34-d6ebea4631aa.png)
 
+## about me in code:
 ``` js
 const NicolasOrtiz = {
 pronouns: "he" | "him",
@@ -9,7 +10,9 @@ technologies: [ React, Bootstrap, Material Ui, Sass , Git and Github, Styled Com
 passions: ["education", "web development", "game development","languages", "psychology", "sports", "personal development"]
 }
 ```
-- 🌱 I’m currently learning in [Platzi](https://platzi.com/p/Xein_dev/) and I'm part of Platzi Master
+![xein-dev's github stats](https://github-readme-stats.vercel.app/api?username=xein-dev)
+
+- 🌱 I’m currently learning in [Platzi](https://platzi.com/p/Xein_dev/) and I'm part of Platzi Master [C9]
 
 ### You can find me:
   - [Linkedin](https://www.linkedin.com/in/nicolasortizdev/)
