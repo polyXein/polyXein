@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋{
+
+``` js
+const NicolasOrtiz = {
+pronouns: "he" | "him",
+code: [ Javascript, HTML5, CSS3, Java ],
+technologies: [ React, Bootstrap, Material Ui, Sass , Git and Github, Styled Components ], 
+}
+```
 
 <!--
 **Xein-dev/Xein-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
