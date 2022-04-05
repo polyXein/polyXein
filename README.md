@@ -6,7 +6,7 @@
 const NicolasOrtiz = {
 pronouns: "he" | "him",
 code: [ "Javascript", "HTML5", "CSS3", "Java" ],
-technologies: [ "React", "Bootstrap", "Material Ui", "Sass","Github", "Styled Components" ], 
+technologies: [ "React", "Bootstrap", "Material Ui", "Sass", "Styled Components" ], 
 passions: ["education", "web development", "game development","languages", "psychology", "sports", "personal development"]
 }
 ```
