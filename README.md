@@ -27,7 +27,7 @@
 
 - 📄 Know about my education [Systems technologies student at Valle del Cauca University and Platzi](https://platzi.com/p/Xein_dev/)
 
-- ⚡ Fun fact **Learn new things and new languages, exploring new view perspectives, all about game development and sporst**
+- ⚡ Fun fact **Learn new things and new languages, exploring new view perspectives, all about game development and sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
