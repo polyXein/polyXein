@@ -5,8 +5,8 @@
 ``` js
 const NicolasOrtiz = {
 pronouns: "he" | "him",
-code: [ Javascript, HTML5, CSS3, Java ],
-technologies: [ React, Bootstrap, Material Ui, Sass , Git and Github, Styled Components ], 
+code: [ "Javascript", "HTML5", "CSS3", "Java" ],
+technologies: [ "React", "Bootstrap", "Material Ui", "Sass","Github", "Styled Components" ], 
 passions: ["education", "web development", "game development","languages", "psychology", "sports", "personal development"]
 }
 ```
