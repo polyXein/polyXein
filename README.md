@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for a oportunity to [help the company grow and develop my professional career](https://github.com/Xein-dev/Personal_Portfolio)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xein-dev/Personal_Portfolio](https://github.com/Xein-dev/Personal_Portfolio)
+- 👨‍💻 All of my projects are available at [my portfolio](https://github.com/Xein-dev/Personal_Portfolio)
 
 - 💬 Ask me about **Frontend, React js and game development**
 
