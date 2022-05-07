@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xein-dev" alt="xein-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/polyXein" target="blank"><img src="https://img.shields.io/twitter/follow/xein_dev?logo=twitter&style=for-the-badge" alt="xein_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/polyXein" target="blank"><img src="https://img.shields.io/twitter/follow/polyXein?logo=twitter&style=for-the-badge" alt="polyXein" /></a> </p>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/Xein-dev/Chat_RealTime)
 
 - 🌱 I’m currently learning **React js, Material Ui, Redux, Next js**
 
-- 🌱 I’m currently learning in [Platzi](https://platzi.com/p/Xein_dev/) and I'm part of Platzi Master [C9 and I'm student University Valle of Cauca
+- 🌱 I’m currently learning in [Platzi](https://platzi.com/p/polyXein/) and I'm part of Platzi Master [C9 and I'm student University Valle of Cauca
 
 - 👯 I’m looking to collaborate on [projects frontend development or game development ](https://github.com/Xein-dev/MarioGame)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **devxein@gmail.com**
 
-- 📄 Know about my education [Systems technologies student at Valle del Cauca University and Platzi](https://platzi.com/p/Xein_dev/)
+- 📄 Know about my education [Systems technologies student at Valle del Cauca University and Platzi](https://platzi.com/p/polyXein/)
 
 - ⚡ Fun fact **Learn new things and new languages, exploring new view perspectives, all about game development and sports**
 
