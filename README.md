@@ -3,7 +3,7 @@
 
 ![fondolinkedin](https://user-images.githubusercontent.com/79024305/161687329-627bae93-200b-4de3-ba34-d6ebea4631aa.png)
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xein-dev&label=Profile%20views&color=0e75b6&style=flat" alt="xein-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xein-dev&label=Profile%20views&color=0e75b6&style=flat" alt="polyXein" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xein-dev" alt="xein-dev" /></a> </p>
 
