@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xein-dev" alt="xein-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xein_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xein_dev?logo=twitter&style=for-the-badge" alt="xein_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/polyXein" target="blank"><img src="https://img.shields.io/twitter/follow/xein_dev?logo=twitter&style=for-the-badge" alt="xein_dev" /></a> </p>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/Xein-dev/Chat_RealTime)
 
