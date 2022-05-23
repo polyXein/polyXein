@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/polyXein" target="blank"><img src="https://img.shields.io/twitter/follow/polyXein?logo=twitter&style=for-the-badge" alt="polyXein" /></a> </p>
 
-- 🔭 I’m currently working on [personal projects](https://github.com/Xein-dev/Chat_RealTime)
+- 🔭 I’m currently working on [personal projects](https://github.com/polyXein/demo-personal-portfolio)
 
 - 🌱 I’m currently learning **React js, Material Ui, Redux, Next js**
 
 - 🌱 I’m currently learning in [Platzi](https://platzi.com/p/polyXein/) and I'm part of Platzi Master [C9 and I'm student University Valle of Cauca
 
-- 👯 I’m looking to collaborate on [projects frontend development or game development ](https://github.com/Xein-dev/MarioGame)
+- 👯 I’m looking to collaborate on [projects frontend development or backend development ](https://github.com/polyXein/demo-instagram-clone)
 
 - 🤝 I’m looking for a oportunity to [help the company grow and develop my professional career](https://github.com/Xein-dev/Personal_Portfolio)
 
