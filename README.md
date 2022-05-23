@@ -17,17 +17,17 @@
 
 - 👯 I’m looking to collaborate on [projects frontend development or backend development ](https://github.com/polyXein/demo-instagram-clone)
 
-- 🤝 I’m looking for a oportunity to [help the company grow and develop my professional career](https://github.com/Xein-dev/Personal_Portfolio)
+- 🤝 I’m looking for a oportunity to [help the company grow and develop my professional career](https://github.com/polyXein/demo-personal-portfolio)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://github.com/Xein-dev/Personal_Portfolio)
+- 👨‍💻 All of my projects are available at [my portfolio](https://github.com/polyXein/demo-personal-portfolio)
 
-- 💬 Ask me about **Frontend, React js and game development**
+- 💬 Ask me about **Frontend, React js, game development and Languages(polyglot) **
 
 - 📫 How to reach me **devxein@gmail.com**
 
 - 📄 Know about my education [Systems technologies student at Valle del Cauca University and Platzi](https://platzi.com/p/polyXein/)
 
-- ⚡ Fun fact **Learn new things and new languages, exploring new view perspectives, all about game development and sports**
+- ⚡ Fun fact **Learn new things and new languages, exploring new view perspectives, all about web development, game development and sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
